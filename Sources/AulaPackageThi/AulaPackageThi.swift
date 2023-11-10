@@ -11,6 +11,7 @@ public struct VerdadeView: View {
     public var body: some View {
         Text("Hello, World!")
         Text("Beleza")
+        Text("Muito legal mesmo")
     }
 }
 
